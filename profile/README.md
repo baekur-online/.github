@@ -2,7 +2,7 @@
 A github version of [baekur.is](https://baekur.is) and [Bókin.is - netbókabúð](https://bokin.is) along with some other material into Icelandic from other languages.
 
 ### Contribution guidelines 
-Please make pull requests or issues if you want to contribute to these repos. We use the same proofreading standards as [Distributed Proofreaders](https://www.pgdp.net/c/)
+Please make pull requests or issues if you want to contribute to these repos. We use the same proofreading standards as [Distributed Proofreaders](https://www.pgdp.net/c/).
 
 
 ### Purchasing materials
