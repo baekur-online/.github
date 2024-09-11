@@ -4,6 +4,8 @@ A github version of [baekur.is](https://baekur.is) and [Bókin.is - netbókabú�
 ### Contribution guidelines 
 Please make pull requests or issues if you want to contribute to these repos. We use the same proofreading standards as [Distributed Proofreaders](https://www.pgdp.net/c/).
 
+### Scanning or Digitizing Services
+We can scan or digitize materials for a fee. If you would like to request our services then please make an issue stipulating how many pages and when you would like the digitized version.
 
 ### Purchasing materials
 Also, if you want to buy any books in .epub, or Amazon Kindle, .pdf, or print, 
