@@ -11,6 +11,9 @@ We can scan or digitize materials for a fee. If you would like to request our se
 Also, if you want to buy any books in .epub, or Amazon Kindle, .pdf, or print, 
 please create an Issue on the corresponding repo and we will take care of your order as soon as possible.
 
+#### In Print
+Hvað er drottin að drulla? by Auður Haralds - [https://github.com/baekur-online/audur-haralds-online](https://github.com/baekur-online/audur-haralds-online)
+
 ## Current works
 [Samyang's Buldak HOT Chicken Flavor Ramen Stew Stype](https://samyangfoods.com) - cooking instructions in [(Icelandic|IS) https://baekur-online.github.io/buldak-online/cooking-instructions.html](https://baekur-online.github.io/buldak-online/cooking-instructions.html)\
 Kvæði eftir Magnús Grímsson - https://baekur-online.github.io/magnus-grimsson-online/kvaedi-page-1.html
