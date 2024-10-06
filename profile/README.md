@@ -17,6 +17,7 @@ Hvað er drottin að drulla? by Auður Haralds - [https://github.com/baekur-onli
 ## Current works
 [Samyang's Buldak HOT Chicken Flavor Ramen Stew Stype](https://samyangfoods.com) - cooking instructions in [(Icelandic|IS) https://baekur-online.github.io/buldak-online/cooking-instructions.html](https://baekur-online.github.io/buldak-online/cooking-instructions.html)\
 Kvæði eftir Magnús Grímsson - https://baekur-online.github.io/magnus-grimsson-online/kvaedi-page-1.html
+[Hvað er drottinn að drolla? By Auður Haralds - $40 + shipping and handling](https://github.com/baekur-online/audur-haralds-online)
 
 <!--
 
