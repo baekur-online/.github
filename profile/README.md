@@ -7,6 +7,9 @@ Please make pull requests or issues if you want to contribute to these repos. We
 ### Scanning or Digitizing Services
 We can scan or digitize materials for a fee. If you would like to request our services then please make an issue stipulating how many pages and when you would like the digitized version.
 
+### Icelandic book market catalogue
+[BækurUpdates](https://github.com/baekur-online/baekurupdates/)
+
 ### Purchasing materials
 Also, if you want to buy any books in .epub, or Amazon Kindle, .pdf, or print, 
 please create an Issue on the corresponding repo and we will take care of your order as soon as possible.
